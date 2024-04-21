@@ -38,5 +38,3 @@ Siga as instruções na linha de comando para selecionar a moeda de destino e in
 Contribuindo
 Contribuições são bem-vindas! Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
