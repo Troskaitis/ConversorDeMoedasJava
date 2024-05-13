@@ -1,4 +1,4 @@
-# ONE - Oracle Next Education Challenges. ConversorDeMoedasJava.
+# ONE - Oracle Next Education Challenges.
 Um consultor de moedas em Java, com requisição em API .
 
 Um simples aplicativo em Java para converter moedas usando a API da ExchangeRate-API.
